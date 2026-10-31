@@ -1,0 +1,40 @@
+Claude
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.gitignore · GITIGNORE
+# окружение и кэш
+venv/
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+ 
+# большие файлы корпуса не кладём в репозиторий
+corpus_*.txt
+ 
+# служебное
+.DS_Store
+.vscode/
+.idea/
+ 
+Ответ Claude завершен
